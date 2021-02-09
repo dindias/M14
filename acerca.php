@@ -8,11 +8,11 @@
       
         <div class="hed">
           
-            <a href="index.html"> <img src="Visuals/ADII.png" class="logo" style="width: 200"> </a>
+            <a href="index.php"> <img src="Visuals/ADII.png" class="logo" style="width: 200"> </a>
             <ul>
-                <li><a href="acerca.html">Acerca de ADII</a></li>
+            <li><a href="acerca.php">Acerca de ADII</a></li>
                 <li><a><input type="text" placeholder="Introducir codigo" id="nuevoTexto"></a></li>
-                <li><a href=".html">Registro</a></li>
+                <li><a href="registro.php">Registro</a></li>
                 <li><a href=.html>Login</a></li>
             </ul>
           
