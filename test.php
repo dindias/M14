@@ -26,28 +26,28 @@
              
             <table>
                 <tr>
-                    <td><button onclick="selecopcion(1, 1)">OPCION 1</button></td>
-                    <td><button onclick="selecopcion(1, 2)">OPCION 2</button></td>
-                    <td><button onclick="selecopcion(1, 3)">OPCION 3</button></td>
-                    <td><button onclick="selecopcion(1, 4)">OPCION 4</button></td>
+                    <td><button onclick="selecopcion(1, 1)" class="opciobutton">OPCION 1</button></td>
+                    <td><button onclick="selecopcion(1, 2)" class="opciobutton">OPCION 2</button></td>
+                    <td><button onclick="selecopcion(1, 3)" class="opciobutton">OPCION 3</button></td>
+                    <td><button onclick="selecopcion(1, 4)" class="opciobutton">OPCION 4</button></td>
                 </tr>
                 <tr>
-                    <td><button onclick="selecopcion(2, 1)">OPCION 1</button></td>
-                    <td><button onclick="selecopcion(2, 2)">OPCION 2</button></td>
-                    <td><button onclick="selecopcion(2, 3)">OPCION 3</button></td>
-                    <td><button onclick="selecopcion(2, 4)">OPCION 4</button></td>
+                    <td><button onclick="selecopcion(2, 1)" class="opciobutton">OPCION 1</button></td>
+                    <td><button onclick="selecopcion(2, 2)" class="opciobutton">OPCION 2</button></td>
+                    <td><button onclick="selecopcion(2, 3)" class="opciobutton">OPCION 3</button></td>
+                    <td><button onclick="selecopcion(2, 4)" class="opciobutton">OPCION 4</button></td>
                 </tr>
                 <tr>
-                    <td><button onclick="selecopcion(3, 1)">OPCION 1</button></td>
-                    <td><button onclick="selecopcion(3, 2)">OPCION 2</button></td>
-                    <td><button onclick="selecopcion(3, 3)">OPCION 3</button></td>
-                    <td><button onclick="selecopcion(3, 4)">OPCION 4</button></td>
+                    <td><button onclick="selecopcion(3, 1)" class="opciobutton">OPCION 1</button></td>
+                    <td><button onclick="selecopcion(3, 2)" class="opciobutton">OPCION 2</button></td>
+                    <td><button onclick="selecopcion(3, 3)" class="opciobutton">OPCION 3</button></td>
+                    <td><button onclick="selecopcion(3, 4)" class="opciobutton">OPCION 4</button></td>
                 </tr>
                 <tr>
-                    <td><button onclick="selecopcion(4, 1)">OPCION 1</button></td>
-                    <td><button onclick="selecopcion(4, 2)">OPCION 2</button></td>
-                    <td><button onclick="selecopcion(4, 3)">OPCION 3</button></td>
-                    <td><button onclick="selecopcion(4, 4)">OPCION 4</button></td>
+                    <td><button onclick="selecopcion(4, 1)" class="opciobutton">OPCION 1</button></td>
+                    <td><button onclick="selecopcion(4, 2)" class="opciobutton">OPCION 2</button></td>
+                    <td><button onclick="selecopcion(4, 3)" class="opciobutton">OPCION 3</button></td>
+                    <td><button onclick="selecopcion(4, 4)" class="opciobutton">OPCION 4</button></td>
                 </tr>
             </table>
    
