@@ -12,8 +12,8 @@
             <ul>
                 <li><a href="acerca.html">Acerca de ADII</a></li>
                 <li><a><input type="text" placeholder="Introducir codigo" id="nuevoTexto"></a></li>
-                <li><a href="Registro.html">Registro</a></li>
-                <li><a href=.html>Login</a></li>
+                <li><a href="registro.html">Registro</a></li>
+                <li><a href="login.html">Login</a></li>
             </ul>
           
         </div>
