@@ -27,13 +27,15 @@
              
             <section class="registro">
                 <div id="ContenedorGeneral">
-                    <input type="text" placeholder=" Introduce tu Nombre">
-                    <input type="text" placeholder=" Introduce tu Apellido">
-                    <input type="email" placeholder=" Introduce tu Correo Electronico">
-                    <input type="password" placeholder=" Introduce una contraseña">
-                    <input type="password" placeholder=" Repite la contraseña ">
-                    <button>Registrar Usuario</button>
-                    <button>Cancelar Registro</button>
+                    <input class="inputText" type="text" placeholder=" Introduce tu Nombre">
+                    <input class="inputText" type="text" placeholder=" Introduce tu Apellido">
+                    <input class="inputCorreo" type="email" placeholder=" Introduce tu Correo Electronico">
+                    <input class="inputPassword" type="password" placeholder=" Introduce una contraseña">
+                    <input class="inputREPPassword" type="password" placeholder=" Repite la contraseña ">
+					<div class="Botones">
+                    <button class="botonRegUsuario">Registrar Usuario</button>
+                    <button class="botonCanRegistro">Cancelar Registro</button>
+					</div>
                 </div>
             </section>
    
