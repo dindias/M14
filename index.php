@@ -8,7 +8,7 @@
       
         <div class="hed">
           
-            <a href="Index.html"> <img src="Visuals/ADII.png" class="logo" style="width: 200"> </a>
+            <a href="Index.php"> <img src="Visuals/ADII.png" class="logo" style="width: 200"> </a>
             <ul>
                 <li><a href="acerca.php">Acerca de ADII</a></li>
                 <li><a><input type="text" placeholder="Introducir codigo" id="nuevoTexto"></a></li>

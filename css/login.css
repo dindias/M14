@@ -1,0 +1,50 @@
+#ContenedorLogin{
+    width: 500px;
+    height: 300px;
+	margin:auto;
+	padding-top:20px;
+}
+.cuadrotitulo{
+	font-size:25px;
+	width:500px;
+	height:35px;
+	text-align:center;
+	padding:15px;
+	background-color:#2cc3fc;
+	color:white;
+	-webkit-border-radius: 200px;
+	-moz-border-radius: 200px;
+	border-radius: 200px;
+}
+.inputText{
+	width:250px;
+	height:30px;
+	text-align:center;
+	margin-left:115px;
+	margin-top:25px;
+}
+.inputPassword{
+	width:250px;
+	height:30px;
+	text-align:center;
+	margin-left:115px;
+	margin-top:25px;
+}
+.Boton{
+    width: 325px;
+    height: 30px;
+	margin-left:170px;
+	margin-top:50px;
+}
+.botonIniciarSesion{
+	width:150px;
+	height:30px;
+	background-color:#2cc3fc;
+	margin-left:4px;
+}
+.botonIniciarSesion:hover{
+-webkit-border-radius: 50px;
+-moz-border-radius: 50px;
+border-radius: 50px;
+background-color:chartreuse;
+}
