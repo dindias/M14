@@ -9,12 +9,12 @@
       
         <div class="hed">
           
-            <a href="index.php"> <img src="Visuals/ADII.png" class="logo" style="width: 200"> </a>
+            <a href="Index.php"> <img src="Visuals/ADII.png" class="logo" style="width: 200"> </a>
             <ul>
                 <li><a href="acerca.php">Acerca de ADII</a></li>
                 <li><a><input type="text" placeholder="Introducir codigo" id="nuevoTexto"></a></li>
                 <li><a href="registro.php">Registro</a></li>
-                <li><a href=login.php>Login</a></li>
+                <li><a href="login.php">Login</a></li>
             </ul>
           
         </div>
@@ -26,7 +26,8 @@
         <div class="bod">
              
             <section class="registro">
-                <div id="ContenedorGeneral">
+                <div id="ContenedorRegistro">
+				<h1 class="cuadrotitulo">Registro Usuario</h1>
                     <input class="inputText" type="text" placeholder=" Introduce tu Nombre">
                     <input class="inputText" type="text" placeholder=" Introduce tu Apellido">
                     <input class="inputCorreo" type="email" placeholder=" Introduce tu Correo Electronico">

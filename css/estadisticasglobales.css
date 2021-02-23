@@ -1,0 +1,25 @@
+#estadisticasglobales{
+    width: 500px;
+    height: 300px;
+	margin:auto; 
+    margin-top: 75px;
+	padding-left: -25px;
+    padding-top:25px;
+    padding-bottom: 15px;
+}
+table, th, td {
+    border: 1px;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+th{
+    background-color:#2cc3fc;
+    color:white;
+    width: 500px;
+    text-align: center;
+}
+td{
+    width: 500px;
+    background-color: white;
+}

@@ -1,8 +1,20 @@
-#ContenedorGeneral{
+#ContenedorRegistro{
     width: 500px;
     height: 300px;
 	margin:auto;
-	padding-top:70px;
+	padding-top:25px;
+}
+.cuadrotitulo{
+	font-size:25px;
+	width:500px;
+	height:35px;
+	text-align:center;
+	padding:15px;
+	background-color:#2cc3fc;
+	color:white;
+	-webkit-border-radius: 200px;
+	-moz-border-radius: 200px;
+	border-radius: 200px;
 }
 .inputText{
 	width:200px;
@@ -52,7 +64,7 @@
 -webkit-border-radius: 50px;
 -moz-border-radius: 50px;
 border-radius: 50px;
-background-color:green;
+background-color:chartreuse;
 }
 .botonCanRegistro{
 	width:150px;
