@@ -1,0 +1,55 @@
+#contenedorPrincipal{
+    width: 800px;
+    height: auto;
+    text-align: center;
+    margin: auto;
+}
+.ContenedorBotonera{
+    width: 800px;
+    height: 60px;
+}
+button{
+    width: 115px;
+    margin: 5px;
+    height: 50px;
+    border: 2px solid black;
+}
+
+button:hover{
+    background-color: teal;
+}
+h2{
+    text-align: center;
+}
+.Botones{
+    width: 320px;
+    height: 30px;
+	margin-left:565px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.validadActividad{
+	width:150px;
+	height:30px;
+	background-color:#2cc3fc;
+	margin-left:4px;
+    float:left;
+}
+.validadActividad:hover{
+-webkit-border-radius: 50px;
+-moz-border-radius: 50px;
+border-radius: 50px;
+background-color:chartreuse;
+}
+.cancelarActividad{
+	width:150px;
+	height:30px;
+	background-color:#2cc3fc;
+}
+.cancelarActividad:hover{
+-webkit-border-radius: 50px;
+-moz-border-radius: 50px;
+border-radius: 50px;
+background-color:red;
+color:white;
+}

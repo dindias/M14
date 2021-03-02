@@ -10,7 +10,7 @@
       
         <div class="hed">
           
-            <a href="Index.html"> <img src="Visuals/ADII.png" class="logo" style="width: 200"> </a>
+            <a href="Index.php"> <img src="Visuals/ADII.png" class="logo" style="width: 200"> </a>
             <ul>
                 <li><a href="acerca.php">Acerca de ADII</a></li>
                 <li><a><input type="text" placeholder="Introducir codigo" id="nuevoTexto"></a></li>
@@ -23,32 +23,41 @@
     </head>
 
     <body class="body"> 
-    
-    <?php 
+	
+	<?php 
     echo "Pagina de login";
     ?>
+      
         <div class="bod">
              
-             <section class="login">
-                 <div id="ContenedorLogin">
-                 <h1 class="cuadrotitulo">Iniciar Sesion</h1>
-                     <input class="inputText" type="text" placeholder=" Introduce tu Usuario">
-                     <input class="inputPassword" type="password" placeholder=" Introduce una contraseña">
-                     <div class="Boton">
-                     <button class="botonIniciarSesion">Iniciar Sesion</button>
-                     </div>
-                 </div>
-             </section>
-    
-             <br>
-             <br>
-             <br>
-        
- 
+            <section class="login">
+                <div id="ContenedorLogin">
+				<h1 class="cuadrotitulo">Iniciar Sesion</h1>
+                    <input class="inputText" type="text" placeholder=" Introduce tu Usuario">
+                    <input class="inputPassword" type="password" placeholder=" Introduce una contraseña">
+					<div class="Boton">
+                    <button class="botonIniciarSesion">Iniciar Sesion</button>
+					</div>
+                </div>
+            </section>
+   
+            <br>
+            <br>
+            <br>
        
-         <footer>
-             <div class="fut"></div>  
-         </footer>
 
-</body>
+      
+        <footer>
+            <div class="fut"></div>  
+        </footer>
+        
+        
+
+
+
+        
+
+        
+        
+    </body>  
 </html>
