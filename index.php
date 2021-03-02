@@ -27,7 +27,7 @@
             <section class="bienvenido">
 
                 <h2>Bienvenido a ADDI!</h2>
-                <a href="personajes.html"> <img src="Visuals/Grupo%20ni%C3%B1os.jpg" style="width:100%"> </a>
+                <img src="Visuals/Grupo%20ni%C3%B1os.jpg" style="width:100%"> </a>
                 <br>             
 
             </section>
